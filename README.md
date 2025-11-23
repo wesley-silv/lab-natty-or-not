@@ -1,51 +1,69 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🧠 Técnicas de Engenharia de Prompt — Mind Map Aesthetic (Natty or Not)
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto apresenta um mapa mental visual e moderno, criado com apoio de Inteligências Artificiais Generativas, com foco nas principais Técnicas de Engenharia de Prompt.
+A ideia é demonstrar, de forma estética e didática, como prompts podem ser construídos, estruturados e refinados.
 
-> Woooow! Look at this 👀
+O conceito segue a proposta do desafio Natty or Not, explorando até que ponto um conteúdo pode parecer natural ou totalmente produzido por IA.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🤖 Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+ChatGPT – Estruturação de conteúdo e explicações técnicas
 
-### Objetivos
+Ferramentas de design por IA (ex.: Canva AI ou semelhante) – Geração do mapa mental estilizado
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+PDF Generator por IA – Montagem do documento final
 
-### Template
+GitHub – Versionamento do projeto
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🧐 Processo de Criação
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Estudo do tema:
+Levantei os componentes essenciais da Engenharia de Prompt, como instruções, contexto, estrutura de saída e guardrails.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Estruturação textual:
+Utilizei IA para organizar o conteúdo em seções claras e didáticas, preparando a base para o mapa mental.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Design automatizado:
+O conteúdo foi inserido em uma ferramenta de design com IA para gerar um layout limpo, colorido e moderno.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aprimoramento visual:
+Ajustes finais foram feitos para tornar o material mais intuitivo e aesthetic, seguindo a proposta “Natty or Not”.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Exportação e versionamento:
+O mapa mental final foi exportado como PDF e adicionado ao repositório.
 
-### Exemplos e Insigths
+🚀 Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+O resultado é um mapa mental visual, claro e organizado, explicando:
 
-## Links Interessantes
+O que é um Prompt
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Por que prompts são importantes
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Como transformam interações
+
+Principais aplicações
+
+Componentes de prompts
+
+Exemplos práticos
+
+Técnicas avançadas de Engenharia de Prompt
+
+Exemplos de aplicação em código
+
+Como estruturar, dividir tarefas e melhorar prompts
+
+📄 Arquivo incluso no repositório:
+Colorful Modern Clean Mind Map Graph.pdf 
+
+Colorful Modern Clean Mind Map …
+
+Um documento esteticamente aprimorado criado com IA.
+
+💭 Reflexão
+
+Criar algo “natty” usando IA gera um exercício interessante:
+quanto mais você domina técnicas de Engenharia de Prompt, mais natural e humano o resultado se torna.
+O desafio mostra que IA + boas instruções entregam materiais cada vez mais próximos do que um designer ou especialista faria manualmente.
